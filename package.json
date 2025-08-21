@@ -1,0 +1,12 @@
+{
+  "name": "smallbizx",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "better-sqlite3": "^9.4.0",
+    "express": "^4.19.2",
+    "nanoid": "^5.0.7"
+  }
+}
